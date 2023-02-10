@@ -1,4 +1,4 @@
-# Oiie, eu sou a <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Eryka</a>! 👋
+# Oiie, eu sou a <a target="_blank"> Eryka</a>! 👋
 
  ![Eryka GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=highcontrast))
  
