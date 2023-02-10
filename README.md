@@ -21,6 +21,7 @@
 
 ![Snake animation](https://github.com/ErykaGoncalves/ErykaGoncalves/blob/output/github-contribution-grid-snake.svg)
 
+<div>
+ <img align="center" alt="Diogo-PHP" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cbsi.net.br%2F2016%2F06%2Fpersonagem-das-meninas-superpoderosas-vira-programadora.html&psig=AOvVaw0Kh8VnVCBE0LYWtB5lwP4e&ust=1676141553718000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCNw9vPi_0CFQAAAAAdAAAAABAE"
 
-
-
+ </div>
