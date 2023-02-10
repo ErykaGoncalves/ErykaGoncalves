@@ -1,6 +1,6 @@
 # Oiie, eu sou a <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Eryka</a>! 👋
 
- ![Anurag's GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=tokyonight))
+ ![Anurag's GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=gruvbox))
  
 <div> 
   <a href="https://wa.me/5534991413476" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
