@@ -10,5 +10,5 @@
 </div>
 
 <div>
- ![Anurag's GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves)
+ ![Anurag's GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=radical))
   </div>
