@@ -1,4 +1,4 @@
-# Olá, sou o a <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Eryka</a>! 👋
+# Oiie, eu sou a <a href="https://portfolio-gustavourzedo.vercel.app/" target="_blank"> Eryka</a>! 👋
 
 <div> 
   <a href="https://wa.me/5534991413476" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
