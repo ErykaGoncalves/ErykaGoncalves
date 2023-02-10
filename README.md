@@ -8,3 +8,7 @@
 ![Snake animation](https://github.com/gustavourzedo/gustavourzedo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<div>
+ ![Anurag's GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves)
+  </div>
