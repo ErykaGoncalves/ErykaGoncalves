@@ -1,6 +1,7 @@
 # Oiie, eu sou a <a target="_blank"> Eryka</a>! 👋
 
  ![Eryka GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=highcontrast))
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
  
  </div>
 
@@ -15,7 +16,7 @@
 </div>
 
 <div> 
-  <a href="https://wa.me/5534991413476" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5534991413476" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"     target="_blank"></a>
  <a href="https://www.linkedin.com/in/eryka-gon%C3%A7alves-4ab6ba227/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eryka.souza@unitri.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
