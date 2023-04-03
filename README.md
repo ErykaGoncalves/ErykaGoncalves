@@ -1,11 +1,9 @@
 # Oiie, eu sou a <a target="_blank"> Eryka</a>! 👋
 
- <a href="https://github.com/ErykaGoncalves">
-  <img height="165em" src="https://github-readme-stats-ErykaGoncalves.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=highcontrast"/>
-  <img height="165em" src="https://github-readme-stats-ErykaGoncalves.vercel.app/api/top-langs/?username=ErykaGoncalves&theme=highcontrast"/>
+<a href="https://github.com/ErykaGoncalves">
+  <img height="200em" src="https://github-readme-stats-ErykaGoncalves.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats-ErykaGoncalves.vercel.app/api/top-langs/?username=ErykaGoncalves&theme=radical"/>
 </div>
- 
-
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gust-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
