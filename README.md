@@ -1,10 +1,10 @@
 # Oiie, eu sou a <a target="_blank"> Eryka</a>! 👋
 
 <a href="https://github.com/ErykaGoncalves">
-<img height="165em" src="https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=radical"/>
+<img height="210em" src="https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=radical"/>
   <img height="165em" src="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=ErykaGoncalves&theme=radical"/>
 </div>
-<div style="display: inline_block text-align: center items-align: center">
+<div style="display: inline_bloc">
   
   <img align="center" alt="Gust-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gust-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
