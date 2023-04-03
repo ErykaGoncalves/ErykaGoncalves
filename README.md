@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ErykaGoncalves">
 <img height="210em" src="https://github-readme-stats-diogofrr.vercel.app/api?username=ErykaGoncalves&show_icons=true&theme=radical"/>
-  <img height="165em" src="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=ErykaGoncalves&theme=radical"/>
+  <img height="210em" src="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=ErykaGoncalves&theme=radical"/>
 </div>
 <div style="display: inline_bloc">
   
