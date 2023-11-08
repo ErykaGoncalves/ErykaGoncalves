@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/ErykaGoncalves">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?username=ErykaGoncalves&show_icons=true&theme=radical"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ErykaGoncalves&theme=radical&hide_border=true&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ErykaGoncalves&show_icons=true&theme=radical&layout=compact" />
 </div>
   
