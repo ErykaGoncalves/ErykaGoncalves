@@ -1,6 +1,6 @@
 # Oiie, eu sou a <a target="_blank"> Eryka</a>! 👋
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Entusiasta da tecnologia apaixonada por desenvolvimento de software, com foco em Node.js no backend e React no frontend, sempre em busca de soluções criativas para problemas e mantendo-me atualizada com as últimas tecnologias."</p>&nbsp;
 
 
 <a href="https://github.com/ErykaGoncalves">
@@ -28,7 +28,7 @@
 
 #### Studying in this moment:
 
-![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 #### Databases:
