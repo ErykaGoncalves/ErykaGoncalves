@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/ErykaGoncalves">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ErykaGoncalves&theme=radical&hide_border=true&mode=weekly" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ErykaGoncalves&theme=radical&hide_border=true&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ErykaGoncalves&show_icons=true&theme=radical&layout=compact" />
 </div>
   
@@ -33,8 +33,7 @@
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySql](https://img.shields.io/badge/MySql-0064F0?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
